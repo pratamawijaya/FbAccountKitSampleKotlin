@@ -5,7 +5,7 @@ password, namun hanya menggunakan nomor ponsel
 
 Sample ini ditulis menggunakan **Kotlin**
 
-# Todo
+# Setup Project
 
 ### Setup facebook id and account kit client token
 - buka file `strings.xml` di dalam folder `app/src/main/res/values` tambahkan fb id dan account kit token
