@@ -5,7 +5,7 @@ password, namun hanya menggunakan nomor ponsel
 
 Sample ini ditulis menggunakan **Kotlin**
 
-##Compiling
+## Compiling
 - buka terminal/cmd
 - jalankan `./gradlew clean assembleDebug` unix
 - untuk windows jalankan `gradlew.bat clean assembleDebug`
