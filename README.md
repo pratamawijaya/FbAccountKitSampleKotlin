@@ -5,10 +5,13 @@ password, namun hanya menggunakan nomor ponsel
 
 Sample ini ditulis menggunakan **Kotlin**
 
-## Compiling
+# Todo
+
+### Setup facebook id and account kit client token
+- buka file `strings.xml` di dalam folder `app/src/main/res/values` tambahkan fb id dan account kit token
+
+### Compiling and import to android studio
 - buka terminal/cmd
 - jalankan `./gradlew clean assembleDebug` unix
 - untuk windows jalankan `gradlew.bat clean assembleDebug`
-
-## Setup facebook id and account kit client token
-- buka file `strings.xml` di dalam folder `app/src/main/res/values` tambahkan fb id dan account kit token
+- import project ke android studio
