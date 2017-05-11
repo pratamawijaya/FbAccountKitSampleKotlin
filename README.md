@@ -9,3 +9,6 @@ Sample ini ditulis menggunakan **Kotlin**
 - buka terminal/cmd
 - jalankan `./gradlew clean assembleDebug` unix
 - untuk windows jalankan `gradlew.bat clean assembleDebug`
+
+## Setup facebook id and account kit client token
+- buka file `strings.xml` di dalam folder `app/src/main/res/values` tambahkan fb id dan account kit token
