@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FacebookAccountKitDemo</string>
+    <!--setup your own app id-->
+    <string name="FACEBOOK_APP_ID"></string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN"></string>
+</resources>
